@@ -1,0 +1,6 @@
+first enter memtainance mode enable : cloudera manager .
+connect to host on wich nn service running.
+
+$ sudo su 
+$  cd /dfs/nn 
+$  cd /dfs/nn > ls  
